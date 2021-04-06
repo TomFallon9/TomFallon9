@@ -1,7 +1,7 @@
 ### Hi there, thanks for stopping by!👋
 
 
-<p><img src="assets/boats.gif"width="800"/></p>
+<p><img src="assets/boats.gif"width="700"/></p>
 
 
 
