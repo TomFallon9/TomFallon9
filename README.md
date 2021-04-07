@@ -26,7 +26,10 @@
 </p>
 
 
-📫 How to reach me: TomFallon9@gmail.com
+### <p style="color:#FF9933;">Portfolio :necktie:</p>
+<a href="https://tomfallon9.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blueviolet">
+</a>
 <br>
 
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomFallon9&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
