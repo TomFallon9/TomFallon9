@@ -30,6 +30,17 @@
 <a href="https://tomfallon9.github.io/portfolio2021/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
 </a>
+
+### <p style="color:#FF0000;">Email Me :mailbox_with_mail:</p>
+<a href="mailto:tomfallon9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Tom's%20Email-red">
+</a>
+
+### <p style="color:#0099FF;">Linkedin :briefcase:</p>
+<a href="https://www.linkedin.com/in/thomas-fallon9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Tom's%20LinkedIn-blue">
+</a>
+
 <br>
 
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomFallon9&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
