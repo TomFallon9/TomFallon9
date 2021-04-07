@@ -32,7 +32,7 @@
 </a>
 
 ### <p style="color:#FF0000;">Email Me :mailbox_with_mail:</p>
-<a href="mailto:TomFallon9@gmail.com">
+<a href="https://TomFallon9@gmail.com">
 <img src="https://img.shields.io/badge/Email-Tom's%20Email-red">
 </a>
 
