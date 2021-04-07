@@ -27,7 +27,7 @@
 <br>
 
 ### <p style="color:#FF9933;">Portfolio :necktie:</p>
-<a href="tomfallon9.github.io/portfolio2021/" target="_blank">
+<a href="https://tomfallon9.github.io/portfolio2021/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
 </a>
 <br>
