@@ -24,9 +24,23 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+<br>
 
+### <p style="color:#FF9933;">Portfolio :necktie:</p>
+<a href="https://tomfallon9.github.io/portfolio2021/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
+</a>
 
-📫 How to reach me: TomFallon9@gmail.com
+### <p style="color:#FF0000;">Email Me :mailbox_with_mail:</p>
+<a href="https://TomFallon9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Tom's%20Email-red">
+</a>
+
+### <p style="color:#0099FF;">Linkedin :briefcase:</p>
+<a href="https://www.linkedin.com/in/thomas-fallon9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Tom's%20LinkedIn-blue">
+</a>
+
 <br>
 
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomFallon9&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
