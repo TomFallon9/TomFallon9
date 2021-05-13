@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
 </a>
 
-### <p style="color:#FF0000;">Email Me :mailbox_with_mail:</p>
+### <p style="color:#FF0000;">Email :mailbox_with_mail:</p>
 <a href="https://TomFallon9@gmail.com">
 <img src="https://img.shields.io/badge/Email-Tom's%20Email-red">
 </a>
