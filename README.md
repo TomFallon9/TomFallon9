@@ -41,11 +41,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-Tom's%20LinkedIn-blue">
 </a>
 
-<br>
-
-![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomFallon9&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
 
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TomFallon9.TomFallon9)
+
+<b>
+
+![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomFallon9&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
