@@ -26,10 +26,6 @@
 </p>
 <br>
 
-### <p style="color:#FF9933;">Portfolio :necktie:</p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
-</a>
 
 ### <p style="color:#FF0000;">Email :mailbox_with_mail:</p>
 <a href="https://TomFallon9@gmail.com">
