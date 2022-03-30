@@ -27,8 +27,7 @@
 <br>
 
 ### <p style="color:#FF9933;">Portfolio :necktie:</p>
-<a href="https://thomasfrancisfallon.com/" target="_blank">
-<a href="" target="_blank">
+<a href="https://thomasfrancisfallon.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Tom's%20Portfolio-blue">
 </a>
 
