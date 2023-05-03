@@ -39,7 +39,7 @@
 
 ### <p style="color:#0099FF;">Linkedin :briefcase:</p>
 <a href="https://www.linkedin.com/in/thomas-fallon9/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Tom's%20LinkedIn-blue">
+<img src="https://img.shields.io/badge/LinkedIn-Tom's%20LinkedIn-blue" style="margin-bottom: 18px;">
 </a>
 
 
